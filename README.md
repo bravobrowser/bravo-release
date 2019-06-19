@@ -2,7 +2,7 @@
 Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimate browsing experience to users.
 
 ## Version
-[]1.1.1.912](/versions/Bravo_1.1.1.912.apk)
+[1.1.1.912](/versions/Bravo_1.1.1.912.apk)
 
 ## Features
 
@@ -12,23 +12,23 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * Download manager
 * Search in page
 * Normal homepage
-<img src="/images/homepage.png">
+<img src="/images/homepage.png" width="270" height="480">
 
 * Tabs manager
-[/images/tabs_manager.png]
+<img src="/images/tabs_manager.png" width="270" height="480">
 
 * AdBlock
-[/images/feature_adblock.png]
+<img src="/images/feature_adblock.png" width="270" height="480">
 
 * Subscribe AdBlock filters
-[/images/feature_adblock_filters.png]
+<img src="/images/feature_adblock_filters.png" width="270" height="480">
 
 * Incognito
-[/images/homepage_incognito.png]
+<img src="/images/homepage_incognito.png" width="270" height="480">
 
 * DarkMode
-[/images/feature_darkmode.png]
+<img src="/images/feature_darkmode.png" width="270" height="480">
 
 * Switch search engines
-[/images/feature_search_engines.png]
+<img src="/images/feature_search_engines.png" width="270" height="480">
 
