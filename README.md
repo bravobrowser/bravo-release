@@ -1,8 +1,13 @@
 # Bravo Browser
 Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimate browsing experience to users.
 
-## Version
-[1.1.1.912](/versions/Bravo_1.1.1.912.apk)
+## Current
+
+* [1.1.2.2](/versions/Bravo_1.1.2.2.apk)
+
+* Change log:
+   * Popup menu
+   <img src="/images/popup_menu.gif" width="270" height="480">
 
 ## Features
 
@@ -31,4 +36,9 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 * Switch search engines
 <img src="/images/feature_search_engines.png" width="270" height="480">
+
+
+## History
+
+* [1.1.1.912](/versions/Bravo_1.1.1.912.apk)
 
