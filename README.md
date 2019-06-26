@@ -3,11 +3,9 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.2.177](/versions/Bravo_1.1.2.177.apk)
+* [1.1.2.185](/versions/Bravo_1.1.2.185.apk)
 * Change log:
-   * Fix bugs
-   * Overscroll history navigation: supports side-wise slide gesture for back/forward
-   <img src="/images/overscroll_history_navigation.gif" width="270" height="480">
+   * Fix crash of video play
 
 ## Features
 
@@ -40,7 +38,16 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * Popup menu
 <img src="/images/popup_menu.gif" width="270" height="480">
 
+* Overscroll history navigation: supports side-wise slide gesture for back/forward
+<img src="/images/overscroll_history_navigation.gif" width="270" height="480">
+
+
 ## History
+
+* [1.1.2.177](/versions/Bravo_1.1.2.177.apk)
+   * Change log:
+      * Fix bugs
+      * Overscroll history navigation: supports side-wise slide gesture for back/forward
 
 * [1.1.2.66](/versions/Bravo_1.1.2.66.apk)
    * Change log:
