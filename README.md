@@ -3,12 +3,11 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.2.66](/versions/Bravo_1.1.2.66.apk)
-
+* [1.1.2.177](/versions/Bravo_1.1.2.177.apk)
 * Change log:
-   * Fix flash of homepage
-   * Popup menu: update the text color of |Close Tab| to light red
-   * Update some menu icons for DarkMode
+   * Fix bugs
+   * Overscroll history navigation: supports side-wise slide gesture for back/forward
+   <img src="/images/overscroll_history_navigation.gif" width="270" height="480">
 
 ## Features
 
@@ -42,6 +41,12 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 <img src="/images/popup_menu.gif" width="270" height="480">
 
 ## History
+
+* [1.1.2.66](/versions/Bravo_1.1.2.66.apk)
+   * Change log:
+      * Fix flash of homepage
+      * Popup menu: update the text color of |Close Tab| to light red
+      * Update some menu icons for DarkMode
 
 * [1.1.2.2](/versions/Bravo_1.1.2.2.apk)
    * Change log:
