@@ -3,9 +3,9 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.2.185](/versions/Bravo_1.1.2.185.apk)
+* [1.1.2.221](/versions/Bravo_1.1.2.221.apk)
 * Change log:
-   * Fix crash of video play
+   * Popup search menu: Popup Paste and Search, Voice Search when long press ToolBar
 
 ## Features
 
@@ -43,6 +43,10 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 
 ## History
+
+* [1.1.2.185](/versions/Bravo_1.1.2.185.apk)
+   * Change log:
+      * Fix crash of video play
 
 * [1.1.2.177](/versions/Bravo_1.1.2.177.apk)
    * Change log:
