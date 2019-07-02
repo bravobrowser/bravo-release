@@ -41,6 +41,16 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * Overscroll history navigation: supports side-wise slide gesture for back/forward
 <img src="/images/overscroll_history_navigation.gif" width="270" height="480">
 
+## TODO
+* Force zoom in/out
+* QR code
+* Custom User Agent
+* Pull to refresh
+* Read Mode
+* Translate
+* Custom Wallpaper
+* Custom Search Engine
+...
 
 ## History
 
