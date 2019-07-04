@@ -3,9 +3,10 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.2.221](/versions/Bravo_1.1.2.221.apk)
+* [1.1.2.265](/versions/Bravo_1.1.2.265.apk)
 * Change log:
-   * Popup search menu: Popup Paste and Search, Voice Search when long press ToolBar
+   * Force enable zoom by pinch gesture
+   * Fix bugs
 
 ## Features
 
@@ -42,7 +43,7 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 <img src="/images/overscroll_history_navigation.gif" width="270" height="480">
 
 ## TODO
-* Force zoom in/out
+* Force zoom by pinch gesture: Relased 1.1.2.265
 * QR code
 * Custom User Agent
 * Pull to refresh
@@ -53,6 +54,10 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 ...
 
 ## History
+
+* [1.1.2.221](/versions/Bravo_1.1.2.221.apk)
+   * Change log:
+      * Popup search menu: Popup Paste and Search, Voice Search when long press ToolBar
 
 * [1.1.2.185](/versions/Bravo_1.1.2.185.apk)
    * Change log:
