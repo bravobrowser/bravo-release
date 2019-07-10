@@ -51,7 +51,8 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * Translate
 * Custom Wallpaper
 * Custom Search Engine
-...
+* Set Proxy server
+* ...
 
 ## History
 
