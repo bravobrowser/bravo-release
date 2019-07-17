@@ -3,10 +3,10 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.2.348](/versions/Bravo_1.1.2.348.apk)
+* [1.1.2.479](/versions/Bravo_1.1.2.479.apk)
 * Change log:
-   * Revert 'Force enable zoom by pinch gesture'
-   * Fix display error of ToolBar
+   * Force enable zoom by pinch gesture
+   * Pull to refresh
 
 ## Features
 
@@ -43,23 +43,29 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 <img src="/images/overscroll_history_navigation.gif" width="270" height="480">
 
 ## TODO
-* Force zoom by pinch gesture: Relased 1.1.2.265, Revert 1.1.2.348
+* Force zoom by pinch gesture: Relase 1.1.2.265, Revert 1.1.2.348, Reland 1.1.2.479
 * QR code
 * Custom User Agent
-* Pull to refresh
+* Pull to refresh: Release 1.1.2.479
 * Read Mode
 * Translate
 * Custom Wallpaper
 * Custom Search Engine
 * Set Proxy server
+* Subscribe AdBlock filters
 * ...
 
 ## History
 
+* [1.1.2.348](/versions/Bravo_1.1.2.348.apk)
+   * Change log:
+      * Revert 'Force enable zoom by pinch gesture'
+      * Fix display error of ToolBar
+
 * [1.1.2.265](/versions/Bravo_1.1.2.265.apk)
-* Change log:
-   * Force enable zoom by pinch gesture
-   * Fix bugs
+   * Change log:
+      * Force enable zoom by pinch gesture
+      * Fix bugs
 
 * [1.1.2.221](/versions/Bravo_1.1.2.221.apk)
    * Change log:
