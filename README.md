@@ -51,7 +51,7 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * Custom Wallpaper
 * Custom Search Engine
 * Set Proxy server
-* Subscribe AdBlock filters
+* Subscribe AdBlock filters: Release 1.1.2.596
 * ...
 
 ## History
