@@ -3,10 +3,9 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.2.479](/versions/Bravo_1.1.2.479.apk)
+* [1.1.2.596](/versions/Bravo_1.1.2.596.apk)
 * Change log:
-   * Force enable zoom by pinch gesture
-   * Pull to refresh
+   * Subscribe AdBlock Filters
 
 ## Features
 
@@ -56,6 +55,11 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * ...
 
 ## History
+
+* [1.1.2.479](/versions/Bravo_1.1.2.479.apk)
+   * Change log:
+      * Force enable zoom by pinch gesture
+      * Pull to refresh
 
 * [1.1.2.348](/versions/Bravo_1.1.2.348.apk)
    * Change log:
