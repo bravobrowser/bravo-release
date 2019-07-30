@@ -3,10 +3,12 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.2.686](/versions/Bravo_1.1.2.686.apk)
+* [1.1.2.906](/versions/Bravo_1.1.2.906.apk)
 * Change log:
-   * Refactor the Popup menu likes Chrome for iOS
-   * Fix bugs
+   * Support AdBlock runs on arm64 devices
+   * Optimize Swipe navigation history
+   * Add Suggestions: share, copy and edit to Search Box
+   * Fix bugs and improve stability
 
 ## Features
 
@@ -56,6 +58,11 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * ...
 
 ## History
+
+* [1.1.2.686](/versions/Bravo_1.1.2.686.apk)
+   * Change log:
+      * Refactor the Popup menu likes Chrome for iOS
+      * Fix bugs
 
 * [1.1.2.596](/versions/Bravo_1.1.2.596.apk)
    * Change log:
