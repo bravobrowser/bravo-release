@@ -3,11 +3,11 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.2.906](/versions/Bravo_1.1.2.906.apk)
+* [1.1.3.149](/versions/Bravo_1.1.3.149.apk)
 * Change log:
-   * Support AdBlock runs on arm64 devices
-   * Optimize Swipe navigation history
-   * Add Suggestions: share, copy and edit to Search Box
+   * New style of Settings(Can switch back to the old style in the Developer Options)
+   * Support 'Do Not Track' in Privacy & Security
+   * Set Bravo as the default browser
    * Fix bugs and improve stability
 
 ## Features
@@ -57,7 +57,18 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * Subscribe AdBlock filters: Release 1.1.2.596
 * ...
 
+## Developer options
+Click on the Bravo logo 5 times to open the developer options in About, like the below.
+<img src="/images/developer_options.png" width="740" height="480">
+
 ## History
+
+* [1.1.2.906](/versions/Bravo_1.1.2.906.apk)
+   * Change log:
+      * Support AdBlock runs on arm64 devices
+      * Optimize Swipe navigation history
+      * Add Suggestions: share, copy and edit to Search Box
+      * Fix bugs and improve stability
 
 * [1.1.2.686](/versions/Bravo_1.1.2.686.apk)
    * Change log:
