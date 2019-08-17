@@ -3,11 +3,10 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.3.395](/versions/Bravo_1.1.3.395.apk)
+* [1.1.3.538](/versions/Bravo_1.1.3.538.apk)
 * Change log:
+   * Optimize AdBlock
    * New style of UI
-   * Optimize AdBlock for more power
-   * Set Proxy server for Bravo (in the Developer options)
    * Fix bugs and improve stability
 
 ## Features
@@ -27,7 +26,7 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 <img src="/images/feature_adblock.png" width="270" height="480">
 
 * Subscribe AdBlock filters
-<img src="/images/feature_adblock_filters.png" width="270" height="480">
+<img src="/images/subscribe_adblock_filters.png" width="270" height="480">
 
 * Incognito
 <img src="/images/homepage_incognito.png" width="270" height="480">
@@ -62,6 +61,13 @@ Click on the Bravo logo 5 times to open the developer options in About, like the
 <img src="/images/developer_options.png" width="740" height="480">
 
 ## History
+
+* [1.1.3.395](/versions/Bravo_1.1.3.395.apk)
+   * Change log:
+      * New style of UI
+      * Optimize AdBlock for more power
+      * Set Proxy server for Bravo (in the Developer options)
+      * Fix bugs and improve stability
 
 * [1.1.3.149](/versions/Bravo_1.1.3.149.apk)
    * Change log:
