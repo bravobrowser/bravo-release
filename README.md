@@ -56,17 +56,17 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 ## TODO
 * Force zoom by pinch gesture: Relase 1.1.2.265, Revert 1.1.2.348, Reland 1.1.2.479
 * QR code
-* Custom User Agent
+* Custom User Agent: Release 1.1.3.729
 * Pull to refresh: Release 1.1.2.479
 * Read Mode
 * Translate
-* Custom Wallpaper
+* Custom Wallpaper: Support default wallpaper in 1.1.3.729
 * Custom Search Engine
 * Set Proxy server : Release 1.1.3.395 in Developer options
 * Subscribe AdBlock filters: Release 1.1.2.596
 * Add Doodles
-* Custom 404 not found page
-* Video download
+* Custom 404 not found page: Release 1.1.3.729
+* Video download: Release 1.1.3.729
 * Bookmark manager
 * ...
 
