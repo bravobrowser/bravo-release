@@ -3,11 +3,12 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.3.538](/versions/Bravo_1.1.3.538.apk)
+* [1.1.3.729](/versions/Bravo_1.1.3.729.apk)
 * Change log:
-   * Optimize AdBlock
-   * New style of UI
-   * Fix bugs and improve stability
+   * Custom 404 Not Found
+   * Support video download
+   * Support custom user agent
+   * Add a default wallpaper
 
 ## Features
 
@@ -16,6 +17,9 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * Bookmarks
 * Download manager
 * Search in page
+* Default wallpaper
+<img src="/images/wallpaper.png" width="270" height="480">
+
 * Normal homepage
 <img src="/images/homepage.png" width="270" height="480">
 
@@ -43,6 +47,12 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * Overscroll history navigation: supports side-wise slide gesture for back/forward
 <img src="/images/overscroll_history_navigation.gif" width="270" height="480">
 
+* 404 Not found
+<img src="/images/404_trex.gif" width="270" height="480">
+
+* Video download
+<img src="/images/video_download.gif" width="270" height="480">
+
 ## TODO
 * Force zoom by pinch gesture: Relase 1.1.2.265, Revert 1.1.2.348, Reland 1.1.2.479
 * QR code
@@ -65,6 +75,12 @@ Click on the Bravo logo 5 times to open the developer options in About, like the
 <img src="/images/developer_options.png" width="740" height="480">
 
 ## History
+
+* [1.1.3.538](/versions/Bravo_1.1.3.538.apk)
+   * Change log:
+      * Optimize AdBlock
+      * New style of UI
+      * Fix bugs and improve stability
 
 * [1.1.3.395](/versions/Bravo_1.1.3.395.apk)
    * Change log:
