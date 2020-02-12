@@ -3,10 +3,11 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.4.514](/versions/Bravo_1.1.4.514.apk)
+* [1.1.4.606](/versions/Bravo_1.1.4.606.apk)
 * Change log:
-   * New Ad Block engine for more powerful
-   * Set up Ad Block filtering lists for regions
+   * Support Wallpaper
+   * Optimize Ad Block engine for more powerful
+   * Fix bugs and improve stability
 
 ## Features
 
@@ -58,7 +59,7 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * Pull to refresh: Release 1.1.2.479
 * Read Mode
 * Translate
-* Custom Wallpaper: Support default wallpaper in 1.1.3.729
+* Custom Wallpaper: Release 1.1.4.606
 * Custom Search Engine
 * Set Proxy server : Release 1.1.3.395 in Developer options
 * Subscribe AdBlock filters: Release 1.1.2.596
@@ -74,6 +75,10 @@ Click on the Bravo logo 5 times to open the developer options in About, like the
 
 ## History
 
+* [1.1.4.514](/versions/Bravo_1.1.4.514.apk)
+   * Change log:
+      * New Ad Block engine for more powerful
+      * Set up Ad Block filtering lists for regions
 * [1.1.4.492](/versions/Bravo_1.1.4.492.apk)
    * Change log:
       * Prevent malicious scripts from running
