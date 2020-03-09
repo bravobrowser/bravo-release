@@ -3,9 +3,10 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.4.669](/versions/Bravo_1.1.4.669.apk)
+* [1.1.4.853](/versions/Bravo_1.1.4.853.apk)
 * Change log:
-   * Fix error page when loading URLs
+   * Opt Wallpapers
+   * Fix crash on Android 4.2
    * Fix bugs and improve stability
 
 ## Features
@@ -74,6 +75,10 @@ Click on the Bravo logo 5 times to open the developer options in About, like the
 
 ## History
 
+* [1.1.4.669](/versions/Bravo_1.1.4.669.apk)
+   * Change log:
+      * Fix error page when loading URLs
+      * Fix bugs and improve stability
 * [1.1.4.606](/versions/Bravo_1.1.4.606.apk)
    * Change log:
       * Support Wallpaper
