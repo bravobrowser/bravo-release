@@ -3,11 +3,9 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.5.170](/versions/Bravo_1.1.5.170.apk)
-* [1.1.5.171_full](/versions/Bravo_1.1.5.171_full.apk)
+* [1.1.5.187](/versions/Bravo_1.1.5.187.apk)
 * Change log:
-   * The version of 1.1.5.171_full within Bravium core.
-   * Optimize search box input
+   * Optimize Text selection for SearchBox
    * Fix bugs and improve stability
 
 ## Features
@@ -76,6 +74,12 @@ Click on the Bravo logo 5 times to open the developer options in About, like the
 
 ## History
 
+* [1.1.5.170](/versions/Bravo_1.1.5.170.apk)
+* [1.1.5.171_full](/versions/Bravo_1.1.5.171_full.apk)
+   * Change log:
+      * The version of 1.1.5.171_full within Bravium core.
+      * Optimize search box input
+      * Fix bugs and improve stability
 * [1.1.5.125](/versions/Bravo_1.1.5.125.apk)
    * Change log:
       * Release Bravium Core(1.0.0.116) base on Chromium M80.
