@@ -3,7 +3,7 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.5.345](/versions/Bravo_1.1.5.345.apk)
+* [1.1.5.345](https://raw.githubusercontent.com/bravobrowser/bravo-release/master/versions/Bravo_1.1.5.345.apk)
 * Change log:
    * Support save WebPage as PDF
    * Fix bugs and improve stability
@@ -17,6 +17,14 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 * Bookmarks
 * Download manager
 * Search in page
+* Force zoom by pinch gesture
+* Custom User Agent
+* Pull to refresh
+* Custom Wallpaper
+* Set Proxy server
+* Subscribe AdBlock filters
+* Custom 404 not found page
+* Video download
 * Default wallpaper
 <img src="/images/wallpaper.png" width="270" height="480">
 
@@ -54,19 +62,11 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 <img src="/images/video_download.gif" width="270" height="480">
 
 ## TODO
-* Force zoom by pinch gesture: Relase 1.1.2.265, Revert 1.1.2.348, Reland 1.1.2.479
 * QR code
-* Custom User Agent: Release 1.1.3.729
-* Pull to refresh: Release 1.1.2.479
 * Read Mode
 * Translate
-* Custom Wallpaper: Release 1.1.4.606
 * Custom Search Engine
-* Set Proxy server : Release 1.1.3.395 in Developer options
-* Subscribe AdBlock filters: Release 1.1.2.596
 * Add Doodles
-* Custom 404 not found page: Release 1.1.3.729
-* Video download: Release 1.1.3.729
 * Bookmark manager
 * ...
 
