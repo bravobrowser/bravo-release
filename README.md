@@ -3,12 +3,13 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.5.345](https://raw.githubusercontent.com/bravobrowser/bravo-release/master/versions/Bravo_1.1.5.345.apk)
+* [1.1.5.452](https://raw.githubusercontent.com/bravobrowser/bravo-release/master/versions/Bravo_1.1.5.452.apk)
 * Change log:
-   * Support save WebPage as PDF
+   * Optimize dark mode
+   * Support save WebPage as PDF or HTML
+   * Switch to incognito mode at startup
+   * Add quit button on the Popup menu
    * Fix bugs and improve stability
-   * Privacy search: DuckDuckGo & Mojeek
-   * AdBlock: Subscribe EasyPrivacy & EasyList by default
 
 ## Features
 
@@ -75,6 +76,13 @@ Click on the Bravo logo 5 times to open the developer options in About, like the
 <img src="/images/developer_options.png" width="740" height="480">
 
 ## History
+
+* [1.1.5.345](https://raw.githubusercontent.com/bravobrowser/bravo-release/master/versions/Bravo_1.1.5.345.apk)
+   * Change log:
+      * Support save WebPage as PDF
+      * Fix bugs and improve stability
+      * Privacy search: DuckDuckGo & Mojeek
+      * AdBlock: Subscribe EasyPrivacy & EasyList by default
 
 * [1.1.5.262](/versions/Bravo_1.1.5.262.apk)
    * Change log:
