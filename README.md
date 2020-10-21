@@ -3,10 +3,12 @@ Bravo is based on AOSP Browser and Chromium, and is aim to providing the ultimat
 
 ## Current
 
-* [1.1.6(Preview)](https://raw.githubusercontent.com/bravobrowser/bravo-release/master/versions/Bravo_preview.1.1.6.apk)
+* [1.1.6](https://raw.githubusercontent.com/bravobrowser/bravo-release/master/versions/Bravo_1.1.6.apk)
 * Change log:
-   * Optimize Text selection
+   * Fix unable to save webpage
    * Fix bugs and improve stability
+   * Optimize Text selection
+   * Optimize NightMode: Dark mode and mask mode
    * Reimplement AdBlock engine to support uBlockOrigin's filters(small size but more powerful)
 
 ## Features
